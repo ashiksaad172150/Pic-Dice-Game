@@ -1,11 +1,13 @@
 ﻿# 🎲 Pig Dice Game
 
 A fun and interactive 2-player dice game built using **HTML**, **CSS**, and **JavaScript** with DOM manipulation.
-
+---
 ## 📸 Preview
 
 🌐 [Live Demo](https://pig-dice-game-farhad.netlify.app)
 
+
+---
 ## 🚀 Features
 
 - 🎮 Two-player mode
@@ -56,4 +58,5 @@ dice-game/
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
+
 
