@@ -4,7 +4,7 @@ A fun and interactive 2-player dice game built using **HTML**, **CSS**, and **Ja
 ---
 ## 📸 Preview
 
-🌐 [Live Demo](https://pig-dice-game-farhad.netlify.app)
+🌐 [Live Demo](https://ashiksaad172150.github.io/Pic-Dice-Game/)
 
 
 ---
@@ -58,5 +58,6 @@ dice-game/
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
+
 
 
